@@ -10,6 +10,5 @@ The aim of the project is to classify between -3 & 3 the negativity / positivity
 ## Word2Vec
 
 Word2vecs can be found at this url:
-
 	- https://drive.google.com/file/d/10B7cvx3xN7Ef_FxwIO8sigd1J1Ibe6Lu/view
 	- https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz
