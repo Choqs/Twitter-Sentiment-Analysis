@@ -14,10 +14,10 @@ Using TensorFlow backend.
 >>> tsa.predict("I'm still feeling some type of way about Viserion. #GameOfThrones #crying #stresseating")
 (-1, 'Slightly negative emotional state')
 
-tsa.predict("It's a good morning today and I'm feeling lively 😊 #goodmorning #happy #lively")
+>>> tsa.predict("It's a good morning today and I'm feeling lively 😊 #goodmorning #happy #lively")
 (3, 'Very positive emotional state')
 
-tsa.predict("Pound has dropped despite #UK #Govt proposals. It's #BECAUSE of the #arrogance of them that it's #dropped 😤")
+>>> tsa.predict("Pound has dropped despite #UK #Govt proposals. It's #BECAUSE of the #arrogance of them that it's #dropped 😤")
 (-3, 'Very negative emotional state')
 ```
 
