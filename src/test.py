@@ -1,6 +1,7 @@
 from TweetSentimentAnalysis import TweetSA
 
 tsa = TweetSA()
-print(tsa.predict('I m filling very bad today...'))
-print(tsa.predict('I love my life so much !!! :)'))
-print(tsa.predict('I am going to school today'))
+
+print(tsa.predict("I'm still feeling some type of way about Viserion. #GameOfThrones #crying"))
+print(tsa.predict("It's a good morning today and I'm feeling lively 😊 #goodmorning #happy #lively"))
+print(tsa.predict("Pound has dropped despite #UK #Govt proposals. #dropped 😤"))
