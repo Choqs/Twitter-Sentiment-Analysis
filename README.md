@@ -20,5 +20,5 @@ tsa.predict('First day of school today! Kinda happy')
 ## Word2Vec
 
 Word2vecs can be found at this url:
-	- https://drive.google.com/file/d/10B7cvx3xN7Ef_FxwIO8sigd1J1Ibe6Lu/view
-	- https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz
+- https://drive.google.com/file/d/10B7cvx3xN7Ef_FxwIO8sigd1J1Ibe6Lu/view
+- https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz
