@@ -5,7 +5,17 @@ The aim of the project is to classify between -3 & 3 the negativity / positivity
 
 ## How to use ?
 
-//FIX ME
+```python3
+from TweetSentimentAnalysis import TweetSA
+
+tsa = TweetSA()
+
+tsa.predict('I m filling very bad today...')
+
+tsa.predict('I love my life so much !!! :)')
+
+tsa.predict('First day of school today! Kinda happy')
+```
 
 ## Word2Vec
 
