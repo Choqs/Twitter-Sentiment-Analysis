@@ -11,7 +11,7 @@ Using TensorFlow backend.
 
 >>> tsa = TweetSA()
 
->>> tsa.predict("I'm still feeling some type of way about Viserion. #GameOfThrones #crying #stresseating")
+>>> tsa.predict("I'm still feeling some type of way about Viserion. #GameOfThrones #crying")
 (-1, 'Slightly negative emotional state')
 
 >>> tsa.predict("It's a good morning today and I'm feeling lively 😊 #goodmorning #happy #lively")
